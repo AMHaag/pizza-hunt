@@ -16,3 +16,4 @@ const CommentSchema = new Schema({
 const Comment = model('Comment', CommentSchema);
 
 module.exports = Comment;
+6
